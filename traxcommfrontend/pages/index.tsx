@@ -73,6 +73,7 @@ export default function Home() {
               >
                 <Input id="location2" placeholder="location2" />
               </Input.Wrapper>
+              
             </Stack>
           </Container>
         </Grid.Col>
